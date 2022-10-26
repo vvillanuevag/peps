@@ -18,5 +18,7 @@ def mayor_o_menor(num_oculto,num_dicho):
 	else:
 		print("El numero es menor")
 
+print ("Modificado 2.0")
+
 
 		
